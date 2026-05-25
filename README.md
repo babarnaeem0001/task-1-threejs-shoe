@@ -2,7 +2,7 @@
 
 Aether 3D is a high-performance, web-based 3D shoe customizer and product showcase. The application leverages modern rendering techniques and hardware-accelerated animations to deliver a premium, interactive product experience. The project is designed with a scroll-driven narrative that guides the user through the technical specifications and engineering features of two iterations of the flagship shoe model.
 
-Live Deployment: [Aether 3D on Vercel](https://work-1-main.vercel.app)
+Live Deployment: [Aether 3D on Vercel](https://task-1-threejs-shoe.app)
 GitHub Repository: [task-1-threejs-shoe](https://github.com/babarnaeem0001/task-1-threejs-shoe)
 
 ---
