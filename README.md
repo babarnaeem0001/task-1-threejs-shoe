@@ -14,7 +14,7 @@ The application is structured as a single-page application built on top of the V
 ### System Architecture
 
 ```mermaid
-flowchart TB
+flowchart TB   
     subgraph UI ["User Interface Layer"]
         Scroll["User Scroll Interaction"]
         Pointer["Pointer Movement Interaction"]
