@@ -11,7 +11,7 @@ GitHub Repository: [task-1-threejs-shoe](https://github.com/babarnaeem0001/task-
 
 The application is structured as a single-page application built on top of the Vite bundler. It integrates a 3D rendering pipeline with scroll-based triggers to synchronize 3D camera animations with HTML content.
 
-### System  Architecture
+### System Architecture
 
 ```mermaid
 flowchart TB   
